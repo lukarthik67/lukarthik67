@@ -1,6 +1,8 @@
 # Hi 👋, I'm Karthik Lu
 
-**A passionate developer from India 🇮🇳**
+                     **A passionate developer from India 🇮🇳**
+  ![Profile views](https://komarev.com/ghpvc/?username=lukarthik67&color=blue&style=for-the-badge)
+                   
 
 - 🌱 I’m currently learning **Data Structures, Object-Oriented Programming, and Machine Learning**  
 - 👨‍💻 I’m interested in beginner-friendly **open-source projects** related to Python, Data Science, or Web/App development  
