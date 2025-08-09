@@ -8,7 +8,7 @@
 💬 Ask me about **Python basics, beginner-level DSA problems, and how to get started with coding as a student**.  
   
 
----
+
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-lu-530534328)  
@@ -36,12 +36,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
----
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lukarthik67&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)  
 
----
+
 
 [![](https://visitcount.itsvg.in/api?id=lukarthik67&icon=0&color=8)](https://visitcount.itsvg.in)  
 <!--
