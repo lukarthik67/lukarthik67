@@ -1,6 +1,8 @@
 # Hi 👋, I'm Karthik Lu
 
-**                A passionate developer from India 🇮🇳       **
+**                A passionate developer from India 🇮🇳       **<br>
+
+
 ![Profile views](https://komarev.com/ghpvc/?username=lukarthik67&color=blue&style=for-the-badge)
                    
 
