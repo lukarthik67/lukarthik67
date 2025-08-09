@@ -1,6 +1,22 @@
 # Hi 👋, I'm Karthik Lu
 
-**                A passionate developer from India 🇮🇳       **<br>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .center-text {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="center-text">
+    A passionate developer from India 🇮🇳
+  </div>
+
+</body>
+</html>
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=lukarthik67&color=blue&style=for-the-badge)
