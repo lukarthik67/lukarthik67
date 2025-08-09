@@ -1,7 +1,19 @@
 # Hi 👋, I'm Karthik Lu
 
-                     **A passionate developer from India 🇮🇳**
-  ![Profile views](https://komarev.com/ghpvc/?username=lukarthik67&color=blue&style=for-the-badge)
+import shutil
+
+# Text to center
+text = "A passionate developer from India 🇮🇳"
+
+# Get the terminal size
+columns = shutil.get_terminal_size().columns
+
+# Center the text
+centered_text = text.center(columns)
+
+# Print the centered text
+print(centered_text)   
+![Profile views](https://komarev.com/ghpvc/?username=lukarthik67&color=blue&style=for-the-badge)
                    
 
 - 🌱 I’m currently learning **Data Structures, Object-Oriented Programming, and Machine Learning**  
