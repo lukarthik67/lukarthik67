@@ -44,7 +44,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
