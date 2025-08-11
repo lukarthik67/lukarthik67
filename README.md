@@ -1,4 +1,4 @@
-# Hi 👋, I'm Karthik Lu
+# Hi 👋, I'm Karthik LU
 
  ** A passionate developer from India 🇮🇳 **<br>
 
