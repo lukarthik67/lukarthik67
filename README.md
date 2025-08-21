@@ -19,6 +19,22 @@
 [![Karthik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukarthik67&theme=radical)](https://github.com/lukarthik67)
 
 ---
+
+## Social Media Tools
+
+<p align="center" style="display: flex; gap: 111px; flex-wrap: wrap; justify-content: center;">
+  <a href="https://www.linkedin.com/in/karthik-lu-530534328" target="_blank">     
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" />  
+  </a>  
+  <a href="https://x.com/LuKarthik94277" target="_blank">    
+    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?logo=twitter&logoColor=white&style=flat" alt="Twitter" />
+  </a>
+  <a href="mailto:lukarthik67@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email" />
+  </a>
+</p>
+
+---
 ## Languages & Tools
 
 <p align="center">
@@ -28,8 +44,10 @@
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat" alt="JavaScript" style="margin: 0 111px;" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5" style="margin: 0 111px;" />  
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=flat" alt="Git" style="margin: 0 111px;" />
-  <img src="https://img.shields.io/badge/DSA-%23FF6F61.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABG0lEQVQ4T2NkoBAwUqifgX4j4z8D4z8j+H5GkDhZq4I/4/D8CjAz0ZgMDAwCkH0zEwMjIyMgsC7QYlCkoFh9iY2Nj/wMnGxkYG5iGFD7mTk5O/gYGh0qKioZ9f/8NfOQYmJiYuLw8QHkgZGRk3wD4L+P+P5vYGBgYEy6FLCi4vL4PxPxPwA8Pv//+0Cw0/8j9DxMTExE+0MDAw/0BgYGBk3+f4Hh4+PT3aRj4AAxEb3T2P7PzFzgYWBgYD6JqQxMDExP0j+/fwMaGhkZGfwyMcUe0hLz58/kf5f7pAJK3S7gAAAABJRU5ErkJggg==" alt="DSA" style="margin: 0 111px;" />
+  <img src="https://img.shields.io/badge/DSA-%23FF6F61.svg?style=flat" alt="DSA" style="margin: 0 111px;" />
+  <img src="https://img.shields.io/badge/Aptitude-%236A5ACD.svg?style=flat" alt="Aptitude" style="margin: 0 111px;" />
 </p>
+
 
 
 ---
