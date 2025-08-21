@@ -24,19 +24,13 @@
 ## Social Media Tools
 
 <p align="center" style="display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-
-  <a href="https://www.linkedin.com/in/karthik-lu-530534328" target="_blank"> 
-    
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://x.com/LuKarthik94277" target="_blank">
-    
+  <a href="https://www.linkedin.com/in/karthik-lu-530534328" target="_blank">     
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" />  </a>  
+  <a href="https://x.com/LuKarthik94277" target="_blank">    
     <img src="https://img.shields.io/badge/Twitter-%23000000.svg?logo=twitter&logoColor=white&style=flat" alt="Twitter" />
   </a>
   <a href="mailto:lukarthik67@gmail.com">
-    
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email" />
+        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email" />
   </a>
 
 </p>
