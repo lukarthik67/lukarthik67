@@ -22,7 +22,7 @@
 
 ## Social Media Tools
 
-<p align="center" style="display: flex; gap: 37px; flex-wrap: wrap; justify-content: center;">
+<p align="center" style="display: flex; gap: 111px; flex-wrap: wrap; justify-content: center;">
   <a href="https://www.linkedin.com/in/karthik-lu-530534328" target="_blank">     
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" />  
   </a>  
@@ -39,14 +39,13 @@
 ## Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=flat" alt="C" style="margin: 0 37px;" />  
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=flat" alt="Java" style="margin: 0 37px;" />
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=flat" alt="Python" style="margin: 0 37px;" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat" alt="JavaScript" style="margin: 0 37px;" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5" style="margin: 0 37px;" />  
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=flat" alt="Git" style="margin: 0 37px;" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=flat" alt="C" style="margin: 0 111px;" />  
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=flat" alt="Java" style="margin: 0 111px;" />
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=flat" alt="Python" style="margin: 0 111px;" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat" alt="JavaScript" style="margin: 0 111px;" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5" style="margin: 0 111px;" />  
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=flat" alt="Git" style="margin: 0 111px;" />
 </p>
-
 
 ---
 
