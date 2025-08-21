@@ -20,20 +20,33 @@
 
 ---
 
+
+## Social Media Tools
+
+<p align="center" style="display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
+
+  <a href="https://www.linkedin.com/in/karthik-lu-530534328" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/LuKarthik94277" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?logo=twitter&logoColor=white&style=flat" alt="Twitter" />
+  </a>
+  <a href="mailto:lukarthik67@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email" />
+  </a>
+
+</p>
+
+---
+
 ## Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=flat" alt="C" />
-  <img src="https://img.shields.io/badge/C++-%230059C3.svg?logo=c%2B%2B&logoColor=white&style=flat" alt="C++" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=flat" alt="C" />  
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=flat" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=flat" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=flat" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white&style=flat" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?logo=numpy&logoColor=white&style=flat" alt="Numpy" />
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=jupyter&logoColor=white&style=flat" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/SQL-%2300f.svg?logo=mysql&logoColor=white&style=flat" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5" />  
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=flat" alt="Git" />
 </p>
 
