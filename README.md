@@ -8,7 +8,7 @@
 - 👨‍💻 I’m interested in beginner-friendly **open-source projects** (Python, Data Science, Web/App Dev)  
 - 📚 Focused on writing **clean, efficient, scalable code**  
 - 💬 Ask me about **Python basics, beginner DSA, and starting coding as a student**  
-- 📫 Reach me at [lukarthik67@gmail.com](mailto:lukarthik67@gmail.com)  
+- 📫 Reach me at [lukarthik67@gmail.com](mailto:lukarthik67@gmail.com)   
 
 ---
 
