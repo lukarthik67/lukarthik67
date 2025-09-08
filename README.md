@@ -14,7 +14,10 @@
 
 ## GitHub Stats
 
-[![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukarthik67&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/lukarthik67)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lukarthik67&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Karthik's GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukarthik67&layout=compact&theme=radical" alt="Top Languages" height="180em" />
+</p>
 
 [![Karthik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukarthik67&theme=radical)](https://github.com/lukarthik67)
 
@@ -35,6 +38,7 @@
 </p>
 
 ---
+
 ## Languages & Tools
 
 <p align="center">
@@ -48,8 +52,6 @@
   <img src="https://img.shields.io/badge/Aptitude-%236A5ACD.svg?style=flat" alt="Aptitude" style="margin: 0 111px;" />
 </p>
 
-
-
 ---
 
 ### ✍️ Dev Quote
@@ -61,6 +63,5 @@
 ### 🔝 Top Contributed Repositories
 
 ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=lukarthik67&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 
 
