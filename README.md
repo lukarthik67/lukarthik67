@@ -4,6 +4,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=lukarthik67&color=blue&style=for-the-badge)
 
+---
+
 - 🌱 I’m currently learning **Data Structures, OOP, and Machine Learning**  
 - 👨‍💻 I’m interested in beginner-friendly **open-source projects** (Python, Data Science, Web/App Dev)  
 - 📚 Focused on writing **clean, efficient, scalable code**  
@@ -12,7 +14,7 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lukarthik67&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Karthik's GitHub Stats" height="180em" />
@@ -23,7 +25,7 @@
 
 ---
 
-## Social Media Tools
+## 🌐 Social Media Tools
 
 <p align="center" style="display: flex; gap: 111px; flex-wrap: wrap; justify-content: center;">
   <a href="https://www.linkedin.com/in/karthik-lu-530534328" target="_blank">     
@@ -39,17 +41,23 @@
 
 ---
 
-## Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=flat" alt="C" style="margin: 0 111px;" />  
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=flat" alt="Java" style="margin: 0 111px;" />
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=flat" alt="Python" style="margin: 0 111px;" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat" alt="JavaScript" style="margin: 0 111px;" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5" style="margin: 0 111px;" />  
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=flat" alt="Git" style="margin: 0 111px;" />
-  <img src="https://img.shields.io/badge/DSA-%23FF6F61.svg?style=flat" alt="DSA" style="margin: 0 111px;" />
-  <img src="https://img.shields.io/badge/Aptitude-%236A5ACD.svg?style=flat" alt="Aptitude" style="margin: 0 111px;" />
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=flat" alt="C" />  
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=flat" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=flat" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5" />  
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=flat" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=flat" alt="GitHub" />
+
+  <!-- Skills -->
+  <img src="https://img.shields.io/badge/DSA-%23FF6F61.svg?style=flat" alt="DSA" />
+  <img src="https://img.shields.io/badge/Aptitude-%236A5ACD.svg?style=flat" alt="Aptitude" />
 </p>
 
 ---
@@ -63,5 +71,10 @@
 ### 🔝 Top Contributed Repositories
 
 ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=lukarthik67&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
+⭐️ From [Karthik LU](https://github.com/lukarthik67)
+
 
 
