@@ -23,9 +23,7 @@
 
 [![Karthik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukarthik67&theme=radical)](https://github.com/lukarthik67)
 
-  ## Leetcode Status   
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/2028_google)  
 
 
 ---
