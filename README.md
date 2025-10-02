@@ -16,10 +16,8 @@
 
 ## 📊 GitHub Status
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukarthik67&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Karthik's GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukarthik67&layout=compact&theme=radical" alt="Top Languages" height="180em" />
-</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/<2028google>?ext=heatmap)
+
 
 [![Karthik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukarthik67&theme=radical)](https://github.com/lukarthik67)
 
