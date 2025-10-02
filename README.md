@@ -23,6 +23,9 @@
 
 [![Karthik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukarthik67&theme=radical)](https://github.com/lukarthik67)
 
+## GFG status  
+ ![GFG Stats](https://gfg-stats-card.vercel.app/?userName=<2028google>)  
+
 
 
 
