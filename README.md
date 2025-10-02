@@ -14,7 +14,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lukarthik67&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Karthik's GitHub Stats" height="180em" />
@@ -24,7 +24,8 @@
 [![Karthik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukarthik67&theme=radical)](https://github.com/lukarthik67)
 
 ## GFG status  
- ![GFG Stats](https://gfg-stats-card.vercel.app/?userName=<2028google>)  
+ ![GFG Stats](https://gfg-stats-card.vercel.app/?userName=2028google)
+
 
 
 
