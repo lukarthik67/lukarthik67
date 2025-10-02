@@ -14,20 +14,6 @@
 
 ---
 
-## 📊 GitHub Status
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/<2028google>?ext=heatmap)
-
-
-[![Karthik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukarthik67&theme=radical)](https://github.com/lukarthik67)
-
----
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/<your_leetcode_username>?ext=heatmap" />
-  <img src="https://gfg-stats-card.vercel.app/?userName=2028google" />
-</p>
----
-
 ## 🌐 Social Media Tools
 
 <p align="center" style="display: flex; gap: 111px; flex-wrap: wrap; justify-content: center;">
