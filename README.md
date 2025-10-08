@@ -63,9 +63,8 @@
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/lukarthik67" target="_blank">Karthik LU</a></p>
-
-
-
+<div align="center">
+  <strong>⭐️ From <a href="https://github.com/lukarthik67">Karthik LU</a></strong>
+</div>
 
 
