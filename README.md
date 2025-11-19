@@ -63,8 +63,5 @@
 
 ---
 
-<!-- Your previous content -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukarthik67&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/lukarthik67)
 
-<h3 align="center">⭐️ From <a href="https://github.com/lukarthik67">Karthik LU</a> ⭐️</h3>
-
-<!-- Next content -->
