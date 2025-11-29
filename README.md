@@ -38,7 +38,8 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=flat" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=flat" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5" />  
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5" />   
+  <img src="https://img.shields.io/badge/CSS-%23E34F26.svg?logo=CSS&logoColor=white&style=flat" alt="CSS" />  
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=flat" alt="Git" />
