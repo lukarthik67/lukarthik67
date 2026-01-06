@@ -1,8 +1,8 @@
 # Hi 👋, I'm Karthik LU   
 
-**A passionate developer from India 🇮🇳  **
+**A passionate developer from India 🇮🇳  ** 
 
-![Profile views](https://komarev.com/ghpvc/?username=lukarthik67&color=blue&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=lukarthik67&color=blue&style=for-the-badge) 
 
 ---
 
@@ -23,10 +23,10 @@
   <a href="https://x.com/LuKarthik94277" target="_blank">    
     <img src="https://img.shields.io/badge/Twitter-%23000000.svg?logo=twitter&logoColor=white&style=flat" alt="Twitter" />
   </a>
-  <a href="mailto:lukarthik67@gmail.com">
+  <a href="mailto:lukarthik67@gmail.com"> 
         <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email" />
-  </a>
-</p>
+  </a> 
+</p> 
 
 ---
 
@@ -68,16 +68,61 @@
 ---
 ## 🧠 LeetCode Practice
 
+### 🧱 Data Structures
+
 ![Arrays](https://img.shields.io/badge/Arrays-✓-brightgreen)
 ![Strings](https://img.shields.io/badge/Strings-✓-brightgreen)
-![LinkedList](https://img.shields.io/badge/Linked%20List-✓-green)
+![LinkedList](https://img.shields.io/badge/Linked%20List-⏳-yellow)
 ![Stack](https://img.shields.io/badge/Stack-✓-green)
 ![Queue](https://img.shields.io/badge/Queue-✓-green)
-![Trees](https://img.shields.io/badge/Trees-⏳-yellow)
-![Graphs](https://img.shields.io/badge/Graphs-⏳-orange)
-![DP](https://img.shields.io/badge/Dynamic%20Programming-⏳-red)
+![Hashing](https://img.shields.io/badge/Hashing-⏳-yellow)
 
-🟢 Completed | 🟡 Ongoing | 🔴 Learning
+![BinaryTree](https://img.shields.io/badge/Binary%20Tree-⏳-yellow)
+![BST](https://img.shields.io/badge/BST-⏳-yellow)
+![Heap](https://img.shields.io/badge/Heap-🔴-red)
+![Trie](https://img.shields.io/badge/Trie-🔴-red)
+![Graph](https://img.shields.io/badge/Graph-⏳-orange)
+
+![SegmentTree](https://img.shields.io/badge/Segment%20Tree-🔴-red)
+![DisjointSet](https://img.shields.io/badge/Disjoint%20Set-🔴-red)
+
+### 🧩 Patterns & Techniques
+
+![TwoPointers](https://img.shields.io/badge/Two%20Pointers-✓-brightgreen)
+![SlidingWindow](https://img.shields.io/badge/Sliding%20Window-✓-brightgreen)
+![BinarySearchPattern](https://img.shields.io/badge/Binary%20Search-✓-green)
+![PrefixSum](https://img.shields.io/badge/Prefix%20Sum-✓-green)
+![Recursion](https://img.shields.io/badge/Recursion-✓-green)
+
+![Backtracking](https://img.shields.io/badge/Backtracking-⏳-yellow)
+![Greedy](https://img.shields.io/badge/Greedy-⏳-yellow)
+![DivideConquer](https://img.shields.io/badge/Divide%20%26%20Conquer-⏳-yellow)
+
+![MonotonicStack](https://img.shields.io/badge/Monotonic%20Stack-⏳-yellow)
+![BitManipulation](https://img.shields.io/badge/Bit%20Manipulation-⏳-orange)
+
+### ⚙️ Algorithms
+
+![Sorting](https://img.shields.io/badge/Sorting-✓-green)
+![Searching](https://img.shields.io/badge/Searching-✓-green)
+
+![BFS](https://img.shields.io/badge/BFS-⏳-yellow)
+![DFS](https://img.shields.io/badge/DFS-⏳-yellow)
+![TopologicalSort](https://img.shields.io/badge/Topological%20Sort-🔴-red)
+![Dijkstra](https://img.shields.io/badge/Dijkstra-🔴-red)
+
+![DynamicProgramming](https://img.shields.io/badge/Dynamic%20Programming-🔴-red)
+![Knapsack](https://img.shields.io/badge/Knapsack-🔴-red)
+![LCS](https://img.shields.io/badge/LCS-🔴-red)
+![DPonTrees](https://img.shields.io/badge/DP%20on%20Trees-🔴-red)
+
+🟢 Completed    
+🟡 Ongoing     
+🔴 Learning   
+
+
+
+
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukarthik67&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/lukarthik67) 
