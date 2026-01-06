@@ -6,7 +6,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Data Structures, OOP, and Machine Learning**  
+- 🌱 I’m currently learning **Data Structures, DSA patterns , Algorithm, Machine Learning , MERN stack**  
 - 👨‍💻 I’m interested in beginner-friendly **open-source projects** (Python,Java, Data Science, Web/App Dev)  
 - 📚 Focused on writing **clean, efficient, scalable code**  
 - 💬 Ask me about **Python, Java, OOP, DSA, and building real-world projects 🚀**  
