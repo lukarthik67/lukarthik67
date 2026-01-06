@@ -65,6 +65,10 @@
 ---
 ## 🧩 LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/2047_welcome?theme=dark&font=Fira%20Code)
+---
+## 🧩 LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/anonymous_user?theme=dark&font=Fira%20Code)
+
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukarthik67&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/lukarthik67) 
