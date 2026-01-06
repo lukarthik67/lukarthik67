@@ -51,7 +51,7 @@
 
   <!-- Skills -->
   <img src="https://img.shields.io/badge/DSA-%23FF6F61.svg?style=flat" alt="DSA" />
-  <img src="https://img.shields.io/badge/Aptitude-%236A5ACD.svg?style=flat" alt="Aptitude" />
+  
 </p>
 
 ---
