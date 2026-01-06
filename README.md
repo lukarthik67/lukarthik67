@@ -62,9 +62,7 @@
 
 ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=lukarthik67&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-## 🧩 LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/2047_welcome?theme=dark&font=Fira%20Code)
+
 ---
 ## 🧠 LeetCode Practice
 
@@ -85,8 +83,6 @@
 
 ### 🧩 Patterns & Techniques
 
-### 🧩 Patterns & Techniques
-
 ![TwoPointers](https://img.shields.io/badge/Two%20Pointers-✓-brightgreen?style=flat)
 ![SlidingWindow](https://img.shields.io/badge/Sliding%20Window-✓-brightgreen?style=flat)
 ![BinarySearch](https://img.shields.io/badge/Binary%20Search-✓-green?style=flat)
@@ -98,8 +94,6 @@
 ![MonotonicStack](https://img.shields.io/badge/Monotonic%20Stack-⏳-yellow?style=flat)
 ![BitManipulation](https://img.shields.io/badge/Bit%20Manipulation-⏳-orange?style=flat)
 
-
-### ⚙️ Algorithms
 
 ### ⚙️ Algorithms
 
