@@ -40,6 +40,10 @@
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5" />   
   <img src="https://img.shields.io/badge/CSS-%23E34F26.svg?logo=CSS&logoColor=white&style=flat" alt="CSS" />  
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white&style=flat" alt="MongoDB" />  
+  <img src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white&style=flat" alt="Express.js" />  
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black&style=flat" alt="React" />  
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white&style=flat" alt="Node.js" />
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=flat" alt="Git" />
