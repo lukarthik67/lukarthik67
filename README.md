@@ -63,6 +63,9 @@
 ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=lukarthik67&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+## 🧩 LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/2047_welcome?theme=dark&font=Fira%20Code)
+
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukarthik67&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/lukarthik67) 
 
