@@ -66,6 +66,19 @@
 ## 🧩 LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/2047_welcome?theme=dark&font=Fira%20Code)
 ---
+## 🧠 LeetCode Practice
+
+![Arrays](https://img.shields.io/badge/Arrays-✓-brightgreen)
+![Strings](https://img.shields.io/badge/Strings-✓-brightgreen)
+![LinkedList](https://img.shields.io/badge/Linked%20List-✓-green)
+![Stack](https://img.shields.io/badge/Stack-✓-green)
+![Queue](https://img.shields.io/badge/Queue-✓-green)
+![Trees](https://img.shields.io/badge/Trees-⏳-yellow)
+![Graphs](https://img.shields.io/badge/Graphs-⏳-orange)
+![DP](https://img.shields.io/badge/Dynamic%20Programming-⏳-red)
+
+🟢 Completed | 🟡 Ongoing | 🔴 Learning
+
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukarthik67&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/lukarthik67) 
 
