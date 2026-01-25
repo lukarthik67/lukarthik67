@@ -55,15 +55,10 @@
 </p>
 
 ## Workflow Tools  
-### Languages & Tools
-
-<p align="left">
-  <!-- Markdown Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown Logo" width="40" height="40"/>
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   
-  <!-- Notion Logo -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion Logo" width="40" height="40"/>
-</p>
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 
 
 ---
