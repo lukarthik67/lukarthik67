@@ -54,6 +54,18 @@
   
 </p>
 
+## Workflow Tools  
+### Languages & Tools
+
+<p align="left">
+  <!-- Markdown Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown Logo" width="40" height="40"/>
+  
+  <!-- Notion Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion Logo" width="40" height="40"/>
+</p>
+
+
 ---
 
 ### ✍️ Dev Quote
