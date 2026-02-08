@@ -58,7 +58,12 @@
 ## Workflow Tools  
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)  
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=flat" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=flat" alt="GitHub" />
+
+
+
 
 
 
