@@ -1,5 +1,7 @@
 # Hi 👋, I'm Karthik LU   
 
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> </p>  
+
 **A passionate developer from India 🇮🇳  ** 
 
 ![Profile views](https://komarev.com/ghpvc/?username=lukarthik67&color=blue&style=for-the-badge) 
