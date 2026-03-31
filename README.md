@@ -124,5 +124,3 @@ I am focused on strengthening my problem-solving skills, contributing to open so
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukarthik67&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/lukarthik67) 
-
