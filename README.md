@@ -10,12 +10,19 @@
 
 ---
 
-- 🌱 I’m currently learning **Data Structures, DSA patterns , Algorithm, Machine Learning , MERN stack**  
-- 👨‍💻 I’m interested in beginner-friendly **open-source projects** (Python,Java, Data Science, Web/App Dev)  
-- 📚 Focused on writing **clean, efficient, scalable code**  
-- 💬 Ask me about **Python, Java, OOP, DSA, and building real-world projects 🚀**  
-- 📫 Reach me at [lukarthik67@gmail.com](mailto:lukarthik67@gmail.com)   
+<h1>💫 About Me</h1>
 
+- 🌱 Currently learning **Data Structures, DSA patterns, Algorithms, Machine Learning, and the MERN stack**  
+- 👨‍💻 Interested in beginner-friendly **open-source projects** (Python, Java, Data Science, Web/App Development)  
+- 📚 Focused on writing **clean, efficient, and scalable code**  
+- 💬 Ask me about **Python, Java, OOP, DSA, and building real-world projects** 🚀  
+- 📫 Reach me at **lukarthik67@gmail.com**  
+
+</td>
+<td>
+  <img src="https://cdn.dribbble.com/userupload/31153076/file/original-8d91ddeaca87dc4ad26f9c98ce4f7be1.gif" alt="Developer Animation" />
+</td>
+</tr>
 ---
 
 ## 🌐 Social Media Tools
