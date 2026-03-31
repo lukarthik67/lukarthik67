@@ -16,25 +16,27 @@
 <td width="60%">
 
 <ul>
-<li>💻 Currently contributing to open source through <b>GSSoC (GirlScript Summer of Code)</b></li>
-<li>👯 Looking to collaborate on <b>web development projects and open-source initiatives</b></li>
-<li>⚡ Skilled in building <b>scalable full-stack applications and interactive UIs</b></li>
-<li>🎓 Pursuing <b>B.Tech in Computer Science (Graduating in 2027)</b></li>
-<li>🌍 Passionate about <b>creating real-world impactful tech solutions</b></li>
+<li>🌱 Currently learning <b>Data Structures, DSA patterns, Algorithms, Machine Learning, and the MERN stack</b></li>
+<li>👨‍💻 Interested in beginner-friendly <b>open-source projects</b> (Python, Java, Data Science, Web/App Development)</li>
+<li>📚 Focused on writing <b>clean, efficient, and scalable code</b></li>
+<li>💬 Ask me about <b>Python, Java, OOP, DSA, and building real-world projects</b> 🚀</li>
+<li>📫 Reach me at <b>lukarthik67@gmail.com</b></li>
 </ul>
 
 <p>
-I am focused on growing as a developer, contributing to open source, and exploring cloud and UI/UX technologies.
+I am focused on strengthening my problem-solving skills, contributing to open source, and building real-world projects while exploring AI/ML and full-stack development.
 </p>
 
 </td>
 
 <td width="40%">
-<img src="https://cdn.dribbble.com/userupload/31153076/file/original-8d91ddeaca87dc4ad26f9c98ce4f7be1.gif" width="100%" />
+<img src="https://cdn.dribbble.com/userupload/31153076/file/original-8d91ddeaca87dc4ad26f9c98ce4f7be1.gif" width="100%" alt="Developer Animation" />
 </td>
 
 </tr>
 </table>
+
+
 
 ---
 
