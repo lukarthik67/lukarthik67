@@ -113,6 +113,16 @@ I am focused on strengthening my problem-solving skills, contributing to open so
 </p>
 
 ---
+## 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukarthik67/lukarthik67/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lukarthik67/lukarthik67/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/lukarthik67/lukarthik67/output/github-snake.svg" />
+  </picture>
+</p  
+
+---
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukarthik67&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/lukarthik67) 
 
