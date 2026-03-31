@@ -22,7 +22,7 @@
 <li>👨‍💻 Interested in beginner-friendly <b>open-source projects</b> (Python, Java, Data Science, Web/App Development)</li>
 <li>📚 Focused on writing <b>clean, efficient, and scalable code</b></li>
 <li>💬 Ask me about <b>Python, Java, OOP, DSA, and building real-world projects</b> 🚀</li>
-<li>📫 Reach me at <b>lukarthik67@gmail.com</b></li>
+<li>📫 Reach me at <a href="mailto:lukarthik67@gmail.com"><b>lukarthik67@gmail.com</b></a></li>  
 </ul>
 
 <p>
