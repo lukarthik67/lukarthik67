@@ -1,6 +1,6 @@
 # Hi 👋, I'm Karthik LU   
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EB4F7&width=700&lines=Open+Source+Contributor;Information+Science+Undergrad)](https://git.io/typing-svg)   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EB4F7&width=700&lines=Open+Source+Contributor;Information+Science+Undergraduate)](https://git.io/typing-svg)   
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> </p>  
 
