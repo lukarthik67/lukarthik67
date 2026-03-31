@@ -9,20 +9,33 @@
 ![Profile views](https://komarev.com/ghpvc/?username=lukarthik67&color=blue&style=for-the-badge) 
 
 ---
+<h2>💫 About Me</h2>
 
-<h1>💫 About Me</h1>
+<table>
+<tr>
+<td width="60%">
 
-- 🌱 Currently learning **Data Structures, DSA patterns, Algorithms, Machine Learning, and the MERN stack**  
-- 👨‍💻 Interested in beginner-friendly **open-source projects** (Python, Java, Data Science, Web/App Development)  
-- 📚 Focused on writing **clean, efficient, and scalable code**  
-- 💬 Ask me about **Python, Java, OOP, DSA, and building real-world projects** 🚀  
-- 📫 Reach me at **lukarthik67@gmail.com**  
+<ul>
+<li>💻 Currently contributing to open source through <b>GSSoC (GirlScript Summer of Code)</b></li>
+<li>👯 Looking to collaborate on <b>web development projects and open-source initiatives</b></li>
+<li>⚡ Skilled in building <b>scalable full-stack applications and interactive UIs</b></li>
+<li>🎓 Pursuing <b>B.Tech in Computer Science (Graduating in 2027)</b></li>
+<li>🌍 Passionate about <b>creating real-world impactful tech solutions</b></li>
+</ul>
+
+<p>
+I am focused on growing as a developer, contributing to open source, and exploring cloud and UI/UX technologies.
+</p>
 
 </td>
-<td>
-  <img src="https://cdn.dribbble.com/userupload/31153076/file/original-8d91ddeaca87dc4ad26f9c98ce4f7be1.gif" alt="Developer Animation" />
+
+<td width="40%">
+<img src="https://cdn.dribbble.com/userupload/31153076/file/original-8d91ddeaca87dc4ad26f9c98ce4f7be1.gif" width="100%" />
 </td>
+
 </tr>
+</table>
+
 ---
 
 ## 🌐 Social Media Tools
