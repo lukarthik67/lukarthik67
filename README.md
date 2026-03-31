@@ -107,6 +107,12 @@ I am focused on strengthening my problem-solving skills, contributing to open so
 
 ---
 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lukarthik67&theme=react-dark&hide_border=true"/>
+</p>
+
+---
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukarthik67&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/lukarthik67) 
 
