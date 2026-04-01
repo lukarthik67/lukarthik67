@@ -18,7 +18,13 @@
 
 <ul>
 <li>🌱 Currently learning <b>Data Structures, DSA patterns, Algorithms, Machine Learning, and the MERN stack</b></li>
-<li>🏢 Currently working as a <b>Samsung Innovation Campus (SIC) Trainee</b></li>
+<li>🏢 Currently working as a <b>Samsung Innovation Campus (SIC) Trainee</b></li>  
+<li>🏢 Currently working as a 
+<b>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg" width="18"/> 
+  Samsung Innovation Campus (SIC) Trainee
+</b>
+</li>
 <li>👨‍💻 Interested in beginner-friendly <b>open-source projects</b> (Python, Java, Data Science, Web/App Development)</li>
 <li>📚 Focused on writing <b>clean, efficient, and scalable code</b></li>
 <li>💬 Ask me about <b>Python, Java, OOP, DSA, and building real-world projects</b> 🚀</li>
