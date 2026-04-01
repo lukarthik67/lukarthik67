@@ -45,7 +45,7 @@ I am focused on strengthening my problem-solving skills, contributing to open so
 ## 🌐 Social Media Tools
 
 <p align="center" style="display: flex; gap: 111px; flex-wrap: wrap; justify-content: center;">
-  <a href="https://www.linkedin.com/in/karthik-lu-530534328" target="_blank">     
+  <a href="https://www.linkedin.com/in/karthik-lu-8106393a2/" target="_blank">     
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" />  
   </a>  
   <a href="https://x.com/LuKarthik94277" target="_blank">    
