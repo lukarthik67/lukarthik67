@@ -72,8 +72,9 @@ I am focused on strengthening my problem-solving skills, contributing to open so
   <img src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white&style=flat" alt="Express.js" />  
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black&style=flat" alt="React" />  
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white&style=flat" alt="Node.js" />  
-   <img src="https://img.shields.io/badge/numpy-%23ED8B00.svg?logo=openjdk&logoColor=white&style=flat" alt="numpy" />  
-    <img src="https://img.shields.io/badge/pandas-%23ED8B00.svg?logo=openjdk&logoColor=white&style=flat" alt="pandas" />
+   <img src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white&style=flat" alt="Pandas" />
+
+<img src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white&style=flat" alt="NumPy" /> 
  
   <!-- Tools -->
 
