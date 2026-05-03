@@ -17,12 +17,19 @@
 <td width="60%">
 
 <ul>
-<li>🏢 Currently working as a <b>Samsung Innovation Campus (SIC) Trainee</b></li>    
-<li>🌱 Currently learning <b>Data Structures, DSA patterns, Algorithms, Machine Learning, and the MERN stack</b></li>
-<li>👨‍💻 Interested in beginner-friendly <b>open-source projects</b> (Python, Java, Data Science, Web/App Development)</li>
-<li>📚 Focused on writing <b>clean, efficient, and scalable code</b></li>
-<li>💬 Ask me about <b>Python, Java, OOP, DSA, and building real-world projects</b> 🚀</li>
-<li>📫 Reach me at <a href="mailto:lukarthik67@gmail.com"><b>lukarthik67@gmail.com</b></a></li>  
+<li>🏢 Currently working as a <b>Samsung Innovation Campus (SIC) Trainee</b></li>
+
+<li>🏆 Contributor at <b>GSSOC'26</b> | Selected for <b>NSOC'26</b></li>
+
+<li>🌱 Learning <b>Data Structures & Algorithms, DSA Patterns, Machine Learning, and the MERN Stack</b></li>
+
+<li>👨‍💻 Open to beginner-friendly <b>open-source contributions</b> in Python, Java, Data Science, and Web Development</li>
+
+<li>📚 Passionate about writing <b>clean, efficient, and scalable code</b></li>
+
+<li>💬 Ask me about <b>Python, Java, OOP, DSA, and real-world software projects</b></li>
+
+<li>📫 Reach me at <a href="mailto:lukarthik67@gmail.com"><b>lukarthik67@gmail.com</b></a></li>
 </ul>
 
 <p>
