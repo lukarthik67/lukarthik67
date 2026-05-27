@@ -21,7 +21,7 @@
 
 <li>🏆 Contributor at <b>GSSOC'26</b> | Selected for <b>NSOC'26</b></li>
 
-<li>🌱 Learning <b>Data Structures & Algorithms, DSA Patterns, Machine Learning, and the MERN Stack</b></li>
+<li>🌱 Learning <b>Data Structures & Algorithms, efficient data organization techniques, DSA Patterns, Machine Learning, and the MERN Stack</b> to build scalable and efficient software systems.</li>  
 
 <li>👨‍💻 Open to beginner-friendly <b>open-source contributions</b> in Python, Java, Data Science, and Web Development</li>
 
