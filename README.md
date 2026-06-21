@@ -21,13 +21,13 @@
 
 <li>🏆 Contributor at <b>GSSOC'26</b> | Selected for <b>NSOC'26</b></li>
 
-<li>🌱 Learning <b>Data Structures & Algorithms, efficient data organization techniques, DSA Patterns, Machine Learning, and the MERN Stack</b> to build scalable and efficient software systems.</li>  
+<li>🌱 Learning <b>Data Structures & Algorithms, efficient data organization techniques, DSA Patterns, Machine Learning to build scalable and efficient software systems.</li>  
 
 <li>👨‍💻 Open to beginner-friendly <b>open-source contributions</b> in Python, Java, Data Science, and Web Development</li>
 
 <li>📚 Passionate about writing <b>clean, efficient, and scalable code</b></li>
 
-<li>💬 Ask me about <b>Python, Java, OOP, DSA, and real-world software projects</b></li>
+<li>💬 Ask me about <b>Python, Java, OOP, DSA, MERN stack  and real-world software projects</b></li>
 
 <li>📫 Reach me at <a href="mailto:lukarthik67@gmail.com"><b>lukarthik67@gmail.com</b></a></li>
 </ul>
