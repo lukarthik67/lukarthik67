@@ -23,7 +23,7 @@
 
 <li>🌱 Learning <b>Data Structures & Algorithms, efficient data organization techniques, DSA Patterns, Machine Learning to build scalable and efficient software systems.</li>  
 
-<li>👨‍💻 Open to beginner-friendly <b>open-source contributions</b> in Python, Java, Data Science, and Web Development</li>
+<li>👨‍💻 Open to  <b>open-source contributions</b> in Python, Java, Data Science, AI , ML  and Web Development</li>
 
 <li>📚 Passionate about writing <b>clean, efficient, and scalable code</b></li>
 
