@@ -1,4 +1,4 @@
-# Hi 👋, I'm Karthik LU   
+w# Hi 👋, I'm Karthik LU   
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EB4F7&width=700&lines=Open+Source+Contributor;Information+Science+Undergraduate)](https://git.io/typing-svg)   
 
@@ -114,13 +114,6 @@ I am focused on strengthening my problem-solving skills, contributing to open so
 
 ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=lukarthik67&limit=5&theme=radical&combine_all_yearly_contributions=true&cache_seconds=60)  
 
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lukarthik67&theme=react-dark&hide_border=true"/>
-</p>
 
 ---
 ## 🐍 Contribution Snake
