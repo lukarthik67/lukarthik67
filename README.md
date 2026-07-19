@@ -64,46 +64,60 @@ I am focused on strengthening my problem-solving skills, contributing to open so
 </p> 
 
 ---
+## 🛠️ Tech Stack
 
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=flat" alt="C" />  
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=flat" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=flat" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat" alt="HTML5" />   
-  <img src="https://img.shields.io/badge/CSS-%23E34F26.svg?logo=CSS&logoColor=white&style=flat" alt="CSS" />  
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white&style=flat" alt="MongoDB" />  
-  <img src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white&style=flat" alt="Express.js" />  
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black&style=flat" alt="React" />  
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white&style=flat" alt="Node.js" />  
-   <img src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white&style=flat" alt="Pandas" />
-
-<img src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white&style=flat" alt="NumPy" /> 
- 
-  <!-- Tools -->
-
-
-  <!-- Skills -->
-  <img src="https://img.shields.io/badge/DSA-%23FF6F61.svg?style=flat" alt="DSA" />
-  
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=flat" alt="C"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=flat" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=flat" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat" alt="JavaScript"/>
 </p>
----
 
-## Workflow Tools  
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" alt="React"/>
+</p>
 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=flat" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=flat" alt="GitHub" />
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat" alt="Express.js"/>
+</p>
 
+### Database
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" alt="MongoDB"/>
+</p>
 
+### Data Science
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat" alt="Pandas"/>
+</p>
 
+### Deployment
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white&style=flat" alt="Render"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white&style=flat" alt="Railway"/>
+</p>
 
+### Workflow Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat" alt="Markdown"/>
+  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat" alt="Notion"/>
+</p>
 
-
+### Core Skills
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=flat" alt="DSA"/>
+</p>
 
 ---
 
