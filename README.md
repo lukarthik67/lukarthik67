@@ -124,11 +124,3 @@ I am focused on strengthening my problem-solving skills, contributing to open so
 
 
 
-### 🔝 Top Contributed Repositories
-
-
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=lukarthik67&limit=5&theme=radical&combine_all_yearly_contributions=true&cache_seconds=60)  
-
-
----
-
