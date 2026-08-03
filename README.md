@@ -113,6 +113,18 @@ I am focused on strengthening my problem-solving skills, contributing to open so
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat" alt="Postman"/>
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat" alt="Markdown"/>
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat" alt="Notion"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" alt="VS Code"/>  
+  <!-- PowerShell -->
+<img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=flat" alt="PowerShell"/>  
+
+<!-- Google Colab -->
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat" alt="Google Colab"/>  
+
+<!-- Jupyter -->
+<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat" alt="Jupyter"/>  
+
+<!-- GitHub Actions -->
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat" alt="GitHub Actions"/>  
 </p>
 
 ### Core Skills
