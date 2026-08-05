@@ -17,7 +17,9 @@
 <td width="60%">
 
 <ul>
-<li>🏢 Currently working as a <b>Samsung Innovation Campus (SIC) Trainee</b></li>
+<li>🏢 Currently working as a <b>Samsung Innovation Campus (SIC) Trainee</b></li> 
+  
+<li>Building a Deep Learning-based Satellite Land Use & Land Cover (LULC) Classification System using CNNs &  ResNet50.</li>  
 
 <li>🏆 Contributor at <b>GSSOC'26</b> | Selected for <b>NSOC'26</b></li>
 
