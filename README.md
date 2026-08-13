@@ -74,7 +74,7 @@ I am focused on strengthening my problem-solving skills, contributing to open so
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=flat" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=flat" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat" alt="C++"/>  
+
 </p>
 
 ### Frontend
