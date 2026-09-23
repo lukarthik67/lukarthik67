@@ -17,8 +17,8 @@
 <td width="60%">
 
 <ul>
-<li>🏢 Successfully completed the **Samsung Innovation Campus (SIC) Training Program.</li>  
-<li>🛰️ Developed a **Deep Learning-based Satellite Land Use & Land Cover (LULC) Classification System** using **CNNs and ResNet50.</li>  
+<li>🏢 Successfully completed the Samsung Innovation Campus (SIC) Training Program.</li>  
+<li>🛰️ Developed a Deep Learning-based Satellite Land Use & Land Cover (LULC) Classification System using CNNs and ResNet50.</li>  
 
 <li>🏆 Contributor at <b>GSSOC'26</b> | Selected for <b>NSOC'26</b></li>
 
