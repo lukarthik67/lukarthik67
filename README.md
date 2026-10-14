@@ -6,7 +6,7 @@
 
 **A passionate developer from India 🇮🇳  ** 
 
-![Profile views](https://komarev.com/ghpvc/?username=lukarthik67&color=blue&style=for-the-badge) 
+![Profile views](https://komarev.com/ghpvc/?username=lukarthik67&color=blue&style=for-the-badge)
 
 ---
 
